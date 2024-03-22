@@ -5,8 +5,8 @@
 
 
 ## 💫 About Me:
-💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
-👀  I’m interested in Machine Learning, Computer Vision, and Web Development.<br>
+💡  I like to explore new technologies and develop software solutions.<br>
+👀  I’m interested in Machine Learning, and Web Development.<br>
 🌱  I'm on track to learn more about Artificial Intelligence<br>
 ✍️  In my free time, I pursue Blog Writing as a hobby.<br>
 💬  I'm looking to collaborate on Machine Learning Projects.
